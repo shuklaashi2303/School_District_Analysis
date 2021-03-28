@@ -56,9 +56,7 @@ Screen Shot 2021-03-28 at 6.51.24 PM![image](https://user-images.githubuserconte
 
 The district school data did not affect and have the highest overall percentage in every aspect the schools results were to the mark. However, the charter school results dropped significantly with overall percent to 85.3%, also Thomas High School is part of Charter School Type.
 
-Screen Shot 2021-03-28 at 6.54.26 PM![image](https://user-images.githubusercontent.com/79673185/112771382-8707dc00-8ff9-11eb-9386-e033a9cdb50d.png)
-
-
+Screen Shot 2021-03-28 at 6.49.42 PM
 
 #Summary: Summarize four major changes in the updated school district analysis after reading and math #scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
