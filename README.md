@@ -47,7 +47,8 @@ If we see the school spending of Thomas High School bin is $638 which lies in ra
 
 The bin size of 2000 to 5000 results dropped significantly as compare to medium and small size where overall passing percentage is all different but the average math and reading scores same in small and medium bin size. Interestingly the Thomas High School is not a part in medium bin affecting there percentage but not average.
 
-<img width="798" alt="Screen Shot 2021-03-28 at 6 51 24 PM" src="https://user-images.githubusercontent.com/79673185/112771307-36907e80-8ff9-11eb-918e-3740859f22be.png"
+Screen Shot 2021-03-28 at 6.51.24 PM![image](https://user-images.githubusercontent.com/79673185/112771393-a141ba00-8ff9-11eb-87b4-d633955194f2.png)
+
 
 
 
@@ -55,8 +56,7 @@ The bin size of 2000 to 5000 results dropped significantly as compare to medium 
 
 The district school data did not affect and have the highest overall percentage in every aspect the schools results were to the mark. However, the charter school results dropped significantly with overall percent to 85.3%, also Thomas High School is part of Charter School Type.
 
-
-Screen Shot 2021-03-28 at 6.51.24 PM![image](https://user-images.githubusercontent.com/79673185/112771346-5de74b80-8ff9-11eb-85cf-bb9477d826f6.png)
+Screen Shot 2021-03-28 at 6.54.26 PM![image](https://user-images.githubusercontent.com/79673185/112771382-8707dc00-8ff9-11eb-9386-e033a9cdb50d.png)
 
 
 
