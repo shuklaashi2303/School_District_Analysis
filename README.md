@@ -24,17 +24,25 @@ Thomas High School moved to 2nd place overall with passing of 90% down to last p
 
 As we replaced the Thomas High School data with NaN and then with 0 data count. Everything else remains same.
 
+/Users/sb/Desktop/Screen Shot 2021-03-28 at 6.54.26 PM.png
+
 #Scores by school spending
 
 If we see the school spending of Thomas High School bin is $638 which lies in range of $630 to $644, there is a decease in passing percentage but the average score of maths and reading did not change.
+
+/Users/sb/Desktop/Screen Shot 2021-03-28 at 6.53.13 PM.png
 
 #Scores by school size
 
 The bin size of 2000 to 5000 results dropped significantly as compare to medium and small size where overall passing percentage is all different but the average math and reading scores same in small and medium bin size. Interestingly the Thomas High School is not a part in medium bin affecting there percentage but not average.
 
+/Users/sb/Desktop/Screen Shot 2021-03-28 at 6.51.24 PM.png
+
 #Scores by school type
 
 The district school data did not affect and have the highest overall percentage in every aspect the schools results were to the mark. However, the charter school results dropped significantly with overall percent to 85.3%, also Thomas High School is part of Charter School Type.
+
+/Users/sb/Desktop/Screen Shot 2021-03-28 at 6.49.42 PM.png
 
 #Summary: Summarize four major changes in the updated school district analysis after reading and math #scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
