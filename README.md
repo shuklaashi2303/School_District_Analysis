@@ -65,9 +65,9 @@ The district school data did not affect and have the highest overall percentage 
 
 <img width="798" alt="Screen Shot 2021-03-28 at 6 51 24 PM" src="https://user-images.githubusercontent.com/79673185/112771502-3644b300-8ffa-11eb-95ec-9d488fc9cf69.png">
 
-<img width="798" alt="Screen Shot 2021-03-28 at 6 51 24 PM" src="https://user-images.githubusercontent.com/79673185/112771503-39d83a00-8ffa-11eb-972b-4c4a467b2e9c.png">
+
 #Summary: Summarize four major changes in the updated school district analysis after reading and math #scores for the ninth grade at Thomas High School have been replaced with NaNs.
-<img width="861" alt="Screen Shot 2021-03-28 at 6 54 26 PM" src="https://user-images.githubusercontent.com/79673185/112771513-4361a200-8ffa-11eb-94d1-b60888206399.png">
+
 
 To summarize the four major changes after replacing the math and reading score for Thomas High School with NaN:
 1- the student count changed also, the overall percentage of maths and reading score for charter school decreased not affecting the average of maths and scores.
