@@ -53,7 +53,7 @@ The bin size of 2000 to 5000 results dropped significantly as compare to medium 
 #Scores by school type
 
 The district school data did not affect and have the highest overall percentage in every aspect the schools results were to the mark. However, the charter school results dropped significantly with overall percent to 85.3%, also Thomas High School is part of Charter School Type.
-![image](https://user-images.githubusercontent.com/79673185/112770729-0dbaba00-8ff6-11eb-9cae-951a24246704.png)
+
 
 
 
