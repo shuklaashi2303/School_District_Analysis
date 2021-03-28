@@ -3,8 +3,8 @@
 #Overview of the school district analysis: Explain the purpose of this analysis.
 
 The purpose of this analysis is to determine the various components like to use replace the values and to derive solutions using district and school summary. Also, the school and student data was used to get the high and low performing schools. The analysis also includes to find out the average and percentage of the students grades, and overall percentage on per school basis and also focusing on one school Thomas High School.
+![image](https://user-images.githubusercontent.com/79673185/112770658-b288c780-8ff5-11eb-906e-a72641428efa.png)
 
-![image](https://user-images.githubusercontent.com/79673185/112770631-89683700-8ff5-11eb-8eeb-ca4382238514.png)
 
 
 #Results: Using bulleted lists and images of DataFrames as support, address the following questions.
