@@ -4,7 +4,7 @@
 
 The purpose of this analysis is to determine the various components like to use replace the values and to derive solutions using district and school summary. Also, the school and student data was used to get the high and low performing schools. The analysis also includes to find out the average and percentage of the students grades, and overall percentage on per school basis and also focusing on one school Thomas High School.
 
-
+<img width="715" alt="Screen Shot 2021-03-28 at 7 27 26 PM" src="https://user-images.githubusercontent.com/79673185/112771822-b91a3d80-8ffb-11eb-8a68-8db8413cf293.png">
 
 
 #Results: Using bulleted lists and images of DataFrames as support, address the following questions.
@@ -13,7 +13,7 @@ The purpose of this analysis is to determine the various components like to use 
 
 The district summary results state that the average math score and overall percentage decreased by 1% when compared to Thomas High School. in first part we replaced the ninth grade score with NaN. The reading score stayed same more or less.
 
-
+<img width="759" alt="Screen Shot 2021-03-28 at 7 26 37 PM" src="https://user-images.githubusercontent.com/79673185/112771829-bf101e80-8ffb-11eb-9407-c55ab4b7685d.png">
 
 #How is the school summary affected?
 
