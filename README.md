@@ -4,6 +4,9 @@
 
 The purpose of this analysis is to determine the various components like to use replace the values and to derive solutions using district and school summary. Also, the school and student data was used to get the high and low performing schools. The analysis also includes to find out the average and percentage of the students grades, and overall percentage on per school basis and also focusing on one school Thomas High School.
 
+![image](https://user-images.githubusercontent.com/79673185/112770631-89683700-8ff5-11eb-8eeb-ca4382238514.png)
+
+
 #Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 #How is the district summary affected?
@@ -25,8 +28,7 @@ Thomas High School moved to 2nd place overall with passing of 90% down to last p
 #How does replacing the ninth-grade scores affect the following:
 # High and Low Performing School
 
-![image](https://user-images.githubusercontent.com/79673185/112770518-01822d00-8ff5-11eb-9c61-d8317821ee16.png)
-![image](https://user-images.githubusercontent.com/79673185/112770527-0941d180-8ff5-11eb-961a-dece03ce1c34.png)
+
 
 #Math and reading scores by grade
 
